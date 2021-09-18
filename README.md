@@ -1,4 +1,4 @@
-# Homework-Vlad-IT# Homework-Vlad-IT
+# Homework-Vlad-IT#
  
 1. Предварительно запустить сборку "npm install" для 2 локальных серверов (второй находится в каталоге server_port3000)
 
